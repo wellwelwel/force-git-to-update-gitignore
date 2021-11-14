@@ -11,7 +11,7 @@ The follow command is executed for each file:
    git rm -r --cached *current-file* --ignore-unmatch
 ```
 
-If you just want to run the script, uncomment the last line and insert in `Terminal` the command:
+If you just want to run the script, uncomment the last line and insert in `Terminal`:
 
 ```shell
    node index.js # or whatever name what you put
