@@ -1,4 +1,4 @@
-# **Removes the cache of all files specified in `.gitignore`**
+# **Removes the cache of all files specified in _.gitignore_**
 
 Import or execute directly the module to uncache all files listeds in `.gitignore`.
 <hr />
