@@ -1,4 +1,6 @@
-# **Removes the cache of all files specified in _.gitignore_**
+
+
+# <img src="https://weslley.io/media/refresh-git.svg" width="36" /> **Removes the cache of all files specified in _.gitignore_**
 
 Import or execute directly the module to uncache all files listeds in `.gitignore`.
 <hr />
