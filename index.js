@@ -20,7 +20,6 @@
       try {
          
          execSync(command, { stdio: 'inherit' });
-
          console.log(`${sh.green}✔${sh.reset} ${command}`);
       } catch (e) {
          
